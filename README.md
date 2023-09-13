@@ -12,6 +12,7 @@ Blog posts can be found [here](https://velog.io/@soyeong2/series/%EB%85%BC%EB%AC
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[LINK]](https://arxiv.org/abs/1810.04805) [[BLOG]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 - Deep Residual Learning for Image Recognition(ResNet) [[LINK]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) [[BLOG]](https://velog.io/@soyeong2/CV-Deep-Residual-Learning-for-Image-Recognition-2015)
 - ImageNet Classification with Deep Convolutional Neural Networks(AlexNet) [[LINK]](https://arxiv.org/pdf/1512.03385.pdf) [[BLOG]](https://velog.io/@soyeong2/CV-ImageNet-Classification-with-Deep-Convolutional-Neural-Networks-2012)
+- End-to-end Recovery of Human Shape and Pose [[LINK]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.pdf) [[PPT]](https://github.com/soyeongsohn/AIPaperReview/blob/main/content/End-to-end%20Recovery%20of%20Human%20Shape%20and%20Pose.pdf)
 
 
 ## code
